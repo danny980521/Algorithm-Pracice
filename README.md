@@ -1,2 +1,2 @@
-# Algorithm-Pracice
+# Algorithm_Pracice
 Algorithm practice using Python
